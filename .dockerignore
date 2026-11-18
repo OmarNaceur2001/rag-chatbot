@@ -1,0 +1,11 @@
+.env
+.git
+.gitignore
+.qodo
+venv
+__pycache__
+*.py[cod]
+chroma_db
+logs
+tests
+eval
